@@ -6,9 +6,11 @@ Open `index.html` for a local preview. No package installation or build is requi
 
 ## Hosting and privacy
 
-Keep the GitHub source repository **private**. The user has authorized the website itself to be publicly accessible. Do not commit the source résumé PDF, phone number, birth date, or other personal identifiers.
+The site owner has authorized both this GitHub source repository and the website to be public.
 
-GitHub Pages hosting from a private personal repository requires an eligible GitHub plan. If that is unavailable, use a public static hosting provider connected to this private repository. Never change repository visibility to work around hosting restrictions.
+Live website: https://shuang-sun-research.gracioushaven2.chatgpt.site
+
+Do not commit the source résumé PDF, phone number, birth date, or other personal identifiers.
 
 ## Content
 
